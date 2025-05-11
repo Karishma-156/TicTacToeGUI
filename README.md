@@ -18,7 +18,9 @@ A Java-based GUI Tic-Tac-Toe game built using **Swing Framework** with an implem
 The AI evaluates the game tree using the **Minimax Algorithm**, enhanced with **Alpha-Beta Pruning** to improve efficiency by pruning unnecessary branches in the decision tree. This ensures the best move is chosen while reducing computational time.
 
 ## 📸 Screenshots
-*(You can insert screenshots of your GUI here to make it more visual. Use: ![screenshot](link))*
+![Game Screenshot](AI(0)_PLAYER(X).png)
+![Game Screenshot](MATCH_DRAW.png)
+![Game Screenshot](AI_WINS.png)
 
 ## 🚀 How to Run
 1. Clone the repository:
