@@ -18,8 +18,17 @@ A Java-based GUI Tic-Tac-Toe game built using **Swing Framework** with an implem
 The AI evaluates the game tree using the **Minimax Algorithm**, enhanced with **Alpha-Beta Pruning** to improve efficiency by pruning unnecessary branches in the decision tree. This ensures the best move is chosen while reducing computational time.
 
 ## 📸 Screenshots
+
+INTERMEDIATE PLAYING STATE:
+
 ![Game Screenshot](AI(0)_PLAYER(X).png)
+
+STATE SHOWING A MATCH DRAW:
+
 ![Game Screenshot](MATCH_DRAW.png)
+
+STATE SHOWING AI WINING POSITION:
+
 ![Game Screenshot](AI_WINS.png)
 
 ## 🚀 How to Run
@@ -27,7 +36,9 @@ The AI evaluates the game tree using the **Minimax Algorithm**, enhanced with **
    ```bash
    git clone https://github.com/Karishma-156/TicTacToeGUI.git
 
-2. Compile and run the Java file
-javac TicTacToe.java
-java TicTacToe
+2. Compile and run the Java file:
+   ```bash
+   javac TicTacToe.java
+   java TicTacToe
+
 
